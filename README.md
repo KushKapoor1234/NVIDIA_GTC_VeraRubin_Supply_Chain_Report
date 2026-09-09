@@ -1109,5 +1109,3 @@ Given the different risk profiles of these five names, here's a suggested alloca
 9. **Japan/Korea exchange risk:** Many 2nd-order names are listed on TSE, TWSE, KRX, and STO. FX risk, different disclosure standards, lower liquidity, and corporate governance differences apply
 
 ---
-
-*Disclaimer: This report is for informational and research purposes only. It does not constitute investment advice. The author is not a registered investment advisor. Many companies listed are traded on foreign exchanges with different liquidity, disclosure, and regulatory characteristics than US-listed equities. Conduct your own due diligence before making investment decisions.*
