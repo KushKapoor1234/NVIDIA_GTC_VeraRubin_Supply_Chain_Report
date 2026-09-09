@@ -1,6 +1,6 @@
 # NVIDIA GTC 2026 Hardware Announcements — Complete Supply Chain Alpha Report
 
-*Equity Research | March 18, 2026*
+*Equity Research*
 *Objective: Identify publicly traded companies across the full supply chain — from direct NVIDIA suppliers to their upstream material and equipment providers — that stand to benefit most from the Vera Rubin platform, with assessment of revenue materiality and market pricing*
 
 ---
